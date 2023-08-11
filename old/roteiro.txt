@@ -1,0 +1,119 @@
+Cena 1 - Abertura 
+(00:00:01,523 --> 00:00:26,745)
+Música de abertura
+
+Cena 2 - Introdução
+(00:00:29,735 --> 00:00:33,059) 
+Apresentador dá boas-vindas ao canal do YouTube
+
+Cena 3 - Apresentação do tema
+(00:00:34,020 --> 00:00:39,266)
+Apresentador introduz o tema do vídeo: a série Severance
+
+Cena 4 - Explicação do significado de "Severance"
+(00:00:54,050 --> 00:01:05,641)
+Apresentador explica o significado da palavra "severance" em inglês e como ela se relaciona com o tema da série
+
+Cena 5 - Contexto histórico das divisões subjetivas
+(00:01:00,897 --> 00:01:29,701)  
+Apresentador contextualiza historicamente as divisões subjetivas na formação do sujeito moderno
+
+Cena 6 - Crítica ao neoliberalismo em Severance
+(00:01:29,921 --> 00:01:43,358)
+Apresentador explica como Severance faz uma crítica ao neoliberalismo 
+
+Cena 7 - Diretor da série 
+(00:01:43,683 --> 00:01:53,209)
+Apresentador comenta que a série é dirigida por um comediante e relaciona isso à dissociação tratada na série
+
+Cena 8 - Apresentação dos personagens
+(00:01:53,564 --> 00:02:13,335)
+Apresentador descreve os principais personagens da série 
+
+Cena 9 - Explicação da premissa da série
+(00:02:13,655 --> 00:02:40,810)
+Apresentador explica a premissa da série, com a divisão entre a vida dos personagens dentro e fora do trabalho
+
+Cena 10 - Primeiras pontes entre os mundos divididos
+(00:02:41,137 --> 00:03:07,741)
+Apresentador dá exemplos das primeiras pontes e enigmas que começam a surgir entre os dois mundos, como o curativo que o personagem Mark leva para casa
+
+Cena 11 - Transferência na série
+(00:03:07,767 --> 00:03:26,375)
+Apresentador relaciona a atração de Mark por sua terapeuta com o conceito psicanalítico de transferência 
+
+Cena 12 - Outras pontes entre os mundos
+(00:03:27,329 --> 00:03:42,826)
+Apresentador cita outras pontes que vão surgindo, como a pintura e um livro de autoajuda 
+
+Cena 13 - Linguagem fílmica e tema da série
+(00:03:43,145 --> 00:04:03,249)
+Apresentador analisa como a linguagem fílmica da série, com o uso de luz, concorda com seu tema de rupturas e divisões
+
+Cena 14 - Personagem Burt
+(00:04:03,509 --> 00:04:48,385)
+Apresentador discute o personagem Burt, seu trauma e processo de cura 
+
+Cena 15 - Surgimento de afeto na empresa 
+(00:04:48,613 --> 00:05:00,839)
+Apresentador explica o surgimento de afeto entre dois personagens dentro da empresa, relacionando com o retorno do recalcado
+
+Cena 16 - Personagem Dylan
+(00:05:01,098 --> 00:06:13,335) 
+Apresentador discute o personagem Dylan, aparentemente submisso ao sistema
+
+Cena 17 - Personagem Mrs. Cobel
+(00:06:13,655 --> 00:06:44,903)
+Apresentador discute a personagem Mrs. Cobel e sua função como "algoz" na empresa
+
+Cena 18 - Descoberta do código e fuga
+(00:06:45,085 --> 00:07:10,119)
+Apresentador narra a descoberta do código pelo grupo de funcionários e sua tentativa de fuga e contato com o mundo exterior 
+
+Cena 19 - Motivação do personagem Mark
+(00:07:10,592 --> 00:08:00,810)
+Apresentador discute as possíveis motivações de Mark para entrar no sistema de amnésia da empresa 
+
+Cena 20 - Livro de autoajuda  
+(00:08:01,098 --> 00:08:09,003)
+Apresentador analisa o uso de um livro de autoajuda encontrado como elemento de resistência e sabedoria pelos personagens
+
+Cena 21 - Halley e novos questionamentos
+(00:08:09,583 --> 00:08:48,962)
+Apresentador introduz a personagem Halley, que desestabiliza os funcionários, e levanta questões sobre seus motivos
+
+Cena 22 - Chip e controle dos funcionários
+(00:08:49,122 --> 00:09:05,502) 
+Apresentador discute as possíveis funções más intencionadas do chip que controla os funcionários
+
+Cena 23 - Referências a distopias  
+(00:09:05,827 --> 00:09:13,349)
+Apresentador compara elementos da série a distopias clássicas como Metrópolis e Alphaville
+
+Cena 24 - Quarto tipo de divisão
+(00:09:13,590 --> 00:09:48,684)
+Apresentador propõe um quarto tipo de divisão subjetiva, relacionado ao personagem Dylan
+
+Cena 25 - Objeto a em Severance
+(00:09:48,765 --> 00:10:07,729) 
+Apresentador relaciona o objeto a na teoria psicanalítica de Lacan com elementos em Severance
+
+Cena 26 - Espaço imagético em Severance
+(00:10:08,169 --> 00:10:11,060)
+Apresentador comenta sobre o uso do espaço imagético na série, principalmente das cores branco e verde
+
+Cena 27 - Falha na representação como irrupção do objeto a
+(00:10:11,380 --> 00:11:08,211)
+Apresentador analisa como as falhas na representação causadas pelo excesso de branco simbolizam a irrupção do objeto a
+
+Cena 28 - Três formas de dissociação 
+(00:11:08,691 --> 00:12:04,979)
+Apresentador explica três formas de dissociação - traumática, por recalque e por clivagem
+
+Cena 29 - Conclusão
+(00:12:05,059 --> 00:14:49,728)
+Apresentador faz suas considerações finais sobre a série trabalhar com um sistema de três em vez de dois, e o papel do objeto a como ponto de passagem entre mundos e sutura das divisões. Recomenda assistir a série ao invés de maratonar.
+
+Cena 30 - Encerramento
+(00:14:49,788 --> 00:15:26,693) 
+Apresentador agradece os apoiadores do canal.

@@ -1,0 +1,15 @@
+ Here is a draft blog post about the discussion between the two people:
+
+Two Interesting Tech Minds Discuss the Future 
+
+I recently had the chance to listen to an engaging discussion between Lex Fridman, an AI researcher and podcast host, and George Hotz, a computer programmer known for hacking the iPhone and building self-driving car technology. Their wide-ranging conversation covered many thought-provoking topics related to technology, society, and the future.
+
+Early on, they delved into the nature of consciousness and whether advanced AI systems like large language models could be considered conscious. Hotz expressed skepticism, likening claims of AI consciousness to religious claims about the soul. He sees it all as just different forms of computation. 
+
+Shifting gears, they talked about the implications of powerful generative AI systems like GPT-3 and DALL-E 2 being widely accessible. Hotz raised interesting points about how these technologies could be misused to manipulate people on a large scale if deployed unethically. However, he believes the solution is not restriction but proliferation - if everyone has access to advanced AI, bad actors can be countered. 
+
+The two also discussed the need for openness and decentralization in AI development to prevent single corporations or governments from accumulating too much power through AI. Hotz is a proponent of releasing AI advances openly rather than keeping them locked up. He sees openness as the key to keeping AI safe and preventing dystopian outcomes.
+
+They speculated about the potential for AI to automate away many human jobs, even high-skill jobs like computer programming. Hotz thinks constant simplification and refinement of code will make it easier for AI programming assistants to generate most of the code in the future. However, he believes there will always be a niche for human programmers doing handcrafted work appreciated for its imperfection.
+
+Overall, it was an energetic exchange of ideas between two original thinkers considering how technology could shape our future. While they disagreed on some points, both conveyed an optimistic belief in the power of openness and decentralization to steer technology in a positive direction for humanity.
